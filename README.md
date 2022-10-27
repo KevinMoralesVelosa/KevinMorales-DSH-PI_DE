@@ -17,7 +17,7 @@ De estos archivos, 4 venian con precios por semanas de distintos mercados y cada
 https://drive.google.com/file/d/153UhPcdo_KdRuBGEv9w0ykn77kxcsF3T/view?usp=sharing
 
 **Script Python**
-En este repositorio encontraras el archivo llamado 'Kevin Morales DSH-PI_DE.jpynb' y en él puedes ver los codigos que se usaron para la extracción, limpieza y transformación de los datos, dejandolos con una sola extensión y así mismo tenerlos listos para importarlos en MYSQL.
+En este repositorio encontraras el archivo llamado **'Kevin Morales DSH-PI_DE.jpynb'** y en él puedes ver los codigos que se usaron para la extracción, limpieza y transformación de los datos, dejandolos con una sola extensión y así mismo tenerlos listos para importarlos en MYSQL.
 
 **Script SQL** 
 Este archivo tambien se encuentra en el repositorio y muestra todas las querys utilizadas para la creación del modelo relacional en MYSQL...
@@ -26,3 +26,8 @@ Este archivo tambien se encuentra en el repositorio y muestra todas las querys u
 + Importación archivos a cada tabla de la database
 + Creación Indices, claves primarias y foraneas
 + consulta de prueba 
+
+Este archivo esta en formato SQL y tiene el nombre **'Kevin Morales DSH-PI_DE'** esta comentado para que veas cada una de sus instrucciones.
+
+Para finalizar ya quedarian listos los datos para un respectivo analisis.
+Muchas gracias.
