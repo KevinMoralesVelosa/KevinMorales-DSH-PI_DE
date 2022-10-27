@@ -20,6 +20,8 @@ https://drive.google.com/file/d/153UhPcdo_KdRuBGEv9w0ykn77kxcsF3T/view?usp=shari
 En este repositorio encontraras el archivo llamado **'Kevin Morales DSH-PI_DE.jpynb'** y en él puedes ver los codigos que se usaron para la extracción, limpieza y transformación de los datos, dejandolos con una sola extensión y así mismo tenerlos listos para importarlos en MYSQL.
 https://github.com/KevinMoralesVelosa/KevinMorales-DSH-PI_DE/blob/main/Kevin%20Morales%20DSH%20-%20PI_DE.ipynb
 
+la carpeta con los archivos limpios y transformados se encuentra en este repositorio con nombre Carpeta_csv
+
 **Script SQL** 
 Este archivo tambien se encuentra en el repositorio y muestra todas las querys utilizadas para la creación del modelo relacional en MYSQL...
 + Creación Database
