@@ -2,9 +2,27 @@
 Proyecto Individual Data Engineer Henry 
 
 En este primer proyecto se propone realizar un proceso de ETL (extract, transform and load) a partir de un conjunto de datos que se enfocarán en una misma perspectiva de negocio. Los datos vienen de diversas fuentes de relevamiento de precios en distintos mercados.
-Se deben trabajar los archivos en su limpieza y llevarlos a una unica extensión para luego importarlos a MYSQL.
+Se deben trabajar los archivos en su limpieza y llevarlos a una unica extensión para luego importarlos a MYSQL:
+Eran 6 archivos los cuales venian en 4 formatos
++ JASON
++ CSV
++ PARQUET
++ EXCEL
+
+De estos archivos, 4 venian con precios por semanas de distintos mercados y cada archivo con su fecha de la semana correspondiente y los otros dos eran de sucursal y producto.
 
 ![Slide]https://github.com/KevinMoralesVelosa/KevinMorales-DSH-PI_DE/blob/main/%C2%BFQu%C3%A9%20hicimos.png
 
 **Flujo de proceso del proyecto**
 https://drive.google.com/file/d/153UhPcdo_KdRuBGEv9w0ykn77kxcsF3T/view?usp=sharing
+
+**Script Python**
+En este repositorio encontraras el archivo llamado 'Kevin Morales DSH-PI_DE.jpynb' y en él puedes ver los codigos que se usaron para la extracción, limpieza y transformación de los datos, dejandolos con una sola extensión y así mismo tenerlos listos para importarlos en MYSQL.
+
+**Script SQL** 
+Este archivo tambien se encuentra en el repositorio y muestra todas las querys utilizadas para la creación del modelo relacional en MYSQL...
++ Creación Database
++ Creación tablas (Precios, Sucursal, Productos)
++ Importación archivos a cada tabla de la database
++ Creación Indices, claves primarias y foraneas
++ consulta de prueba 
