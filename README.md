@@ -27,7 +27,7 @@ Este archivo tambien se encuentra en el repositorio y muestra todas las querys u
 + Creación Indices, claves primarias y foraneas
 + consulta de prueba 
 
-Este archivo esta en formato SQL y tiene el nombre **'Kevin Morales DSH-PI_DE'** esta comentado para que veas cada una de sus instrucciones.
+Este archivo esta en formato SQL y tiene el nombre **'Kevin Morales DSH-PI_DE.sql'** esta comentado para que veas cada una de sus instrucciones.
 
 Para finalizar ya quedarian listos los datos para un respectivo analisis.
 Muchas gracias.
