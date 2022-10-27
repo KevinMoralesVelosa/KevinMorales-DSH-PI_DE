@@ -28,6 +28,8 @@ Este archivo tambien se encuentra en el repositorio y muestra todas las querys u
 + Creación Indices, claves primarias y foraneas
 + consulta de prueba 
 
+Modelo Relacional https://github.com/KevinMoralesVelosa/KevinMorales-DSH-PI_DE/blob/main/Modelo%20Relacional.png
+
 Este archivo esta en formato SQL y tiene el nombre **'Kevin Morales DSH-PI_DE.sql'** esta comentado para que veas cada una de sus instrucciones.
 https://github.com/KevinMoralesVelosa/KevinMorales-DSH-PI_DE/blob/main/Kevin%20Morales%20DSH%20-%20PI_DE.sql
 
